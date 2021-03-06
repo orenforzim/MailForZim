@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+.idea
+MailForZim.iml
+src/main/java/env.properties
