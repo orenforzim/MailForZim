@@ -2,11 +2,9 @@
 * Java, Maven, API
 
 ## Installation
----
 This project need the Email AppPassword to work - the AppPassword should be used in 'MailForZim/src/main/java/env.properties'.
 
 ## Project structure
----
 The project created to show how to get specific email by using the java.mail API.
 This is why there are there areas in this project that you can remove and edit:
 1) lines 30-32: in this area a new email is sent.
