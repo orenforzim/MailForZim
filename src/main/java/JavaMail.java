@@ -19,7 +19,7 @@ public class JavaMail {
         this.envProp = new Properties();
 
         //Get data from file to the properties variable
-        FileInputStream input = new FileInputStream("C:/Automation/MailForZim/src/main/java/env.properties");
+        FileInputStream input = new FileInputStream("src/main/java/env.properties");
 
         //Load the data into the properties file
         this.envProp.load(input);
