@@ -1,5 +1,5 @@
 # MailForZim - Created by Oren, for ZIM
-* Java, Maven, API
+* Java, Maven, API, javamail-api
 
 ## Installation
 This project need the Email AppPassword to work - the AppPassword should be used in 'MailForZim/src/main/java/env.properties'.
